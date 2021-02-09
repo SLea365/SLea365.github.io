@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-09T05:51:54.297Z</updated>
+  <updated>2021-02-09T05:56:01.300Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/02/09/KEIL5%E5%85%BC%E5%AE%B9LEIL4%E7%9A%84%E6%96%B9%E6%B3%95/"/>
     <id>http://example.com/2021/02/09/KEIL5%E5%85%BC%E5%AE%B9LEIL4%E7%9A%84%E6%96%B9%E6%B3%95/</id>
     <published>2021-02-09T04:00:50.000Z</published>
-    <updated>2021-02-09T05:51:54.297Z</updated>
+    <updated>2021-02-09T05:56:01.300Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="KEIL5兼容LEIL4的方法"><a href="#KEIL5兼容LEIL4的方法" class="headerlink" title="KEIL5兼容LEIL4的方法"></a>KEIL5兼容LEIL4的方法</h1><h2 id="1-准备工作"><a href="#1-准备工作" class="headerlink" title="1.准备工作"></a>1.准备工作<a id="more"></a></h2><ul><li>MDK5与KEIL4的安装包</li><li>MDK5 <a href="http://www.cn.anshudeyin.cn/mdk528a.exe">下载地址</a></li><li>KEIL4 <a href="http://www.cn.anshudeyin.cn/c51v960a.exe">下载地址</a></li></ul><h2 id="2-兼容过程"><a href="#2-兼容过程" class="headerlink" title="2.兼容过程"></a>2.兼容过程</h2><ol><li>安装MDK5，切记安装顺序，不能装反！！！</li><li>安装KEIL4，此时打开KEIL4安装包时应能自动识别MDK5的路径，如下图：<br><img src="../../../MD/Blog/51jianrong.1.png"></li></ol><p>如果是默认C盘的，则之前安装步骤有错误，彻底卸载之后重新安装。</p><p>3.不要修改此路径，继续下一步安装</p><p>4.中间可能会出现文件重复的现象，点击skip跳过即可</p><p>5.按照破解C51的方法再次破解一遍，最后会有两个截止时期，如下图：</p><p><img src="../../../MD/Blog/51jianrong.2.png"></p><p>至此，兼容完毕</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="KEIL5兼容LEIL4的方法"><a href="#KEIL5兼容LEIL4的方法" class="headerlink" title="KEIL5兼容LEIL4的方法"></a>KEIL5兼容LEIL4的方法</h1><h2 id="1-准备工作"><a href="#1-准备工作" class="headerlink" title="1.准备工作"></a>1.准备工作<a id="more"></a></h2><ul><li>MDK5与KEIL4的安装包</li><li>MDK5 <a href="http://www.cn.anshudeyin.cn/mdk528a.exe">下载地址</a></li><li>KEIL4 <a href="http://www.cn.anshudeyin.cn/c51v960a.exe">下载地址</a></li></ul><h2 id="2-兼容过程"><a href="#2-兼容过程" class="headerlink" title="2.兼容过程"></a>2.兼容过程</h2><ol><li>安装MDK5，切记安装顺序，不能装反！！！</li><li>安装KEIL4，此时打开KEIL4安装包时应能自动识别MDK5的路径，如下图：<br><img src="../../../MD/Blog/511.png"></li></ol><p>如果是默认C盘的，则之前安装步骤有错误，彻底卸载之后重新安装。</p><p>3.不要修改此路径，继续下一步安装</p><p>4.中间可能会出现文件重复的现象，点击skip跳过即可</p><p>5.按照破解C51的方法再次破解一遍，最后会有两个截止时期，如下图：</p><p><img src="../../../MD/Blog/522.png"></p><p>至此，兼容完毕</p>]]></content>
     
     
     <summary type="html">&lt;h1 id=&quot;KEIL5兼容LEIL4的方法&quot;&gt;&lt;a href=&quot;#KEIL5兼容LEIL4的方法&quot; class=&quot;headerlink&quot; title=&quot;KEIL5兼容LEIL4的方法&quot;&gt;&lt;/a&gt;KEIL5兼容LEIL4的方法&lt;/h1&gt;&lt;h2 id=&quot;1-准备工作&quot;&gt;&lt;a href=&quot;#1-准备工作&quot; class=&quot;headerlink&quot; title=&quot;1.准备工作&quot;&gt;&lt;/a&gt;1.准备工作</summary>
