@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-09T08:37:26.545Z</updated>
+  <updated>2021-02-10T03:38:11.931Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>KEIL4新建工程教程</title>
+    <link href="http://example.com/2021/02/10/KEIL4%E6%96%B0%E5%BB%BA%E5%B7%A5%E7%A8%8B%E6%95%99%E7%A8%8B/"/>
+    <id>http://example.com/2021/02/10/KEIL4%E6%96%B0%E5%BB%BA%E5%B7%A5%E7%A8%8B%E6%95%99%E7%A8%8B/</id>
+    <published>2021-02-10T03:06:32.000Z</published>
+    <updated>2021-02-10T03:38:11.931Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="KEIL4新建工程"><a href="#KEIL4新建工程" class="headerlink" title="KEIL4新建工程"></a>KEIL4新建工程</h1><h2 id="1-打开KEIL4，选择Project-——-gt-new-Project"><a href="#1-打开KEIL4，选择Project-——-gt-new-Project" class="headerlink" title="1.打开KEIL4，选择Project ——&gt;new Project"></a>1.打开KEIL4，选择Project ——&gt;new Project</h2><p><img src="http://www.cn.anshudeyin.cn/image-20210210111129675.png" alt="image-20210210111129675"></p><h2 id="2-弹出保存路径的弹窗，填写项目名称，点击保存"><a href="#2-弹出保存路径的弹窗，填写项目名称，点击保存" class="headerlink" title="2.弹出保存路径的弹窗，填写项目名称，点击保存"></a>2.弹出保存路径的弹窗，填写项目名称，点击保存</h2><p>路径和名称最好使用英文路径，中文路径可能会导致一些不知名的错误），建议一个项目一个文件夹，</p><p><img src="http://www.cn.anshudeyin.cn/image-20210210111514087.png" alt="image-20210210111514087"></p><h2 id="3-弹出选择芯片型号界面，选择芯片型号"><a href="#3-弹出选择芯片型号界面，选择芯片型号" class="headerlink" title="3.弹出选择芯片型号界面，选择芯片型号"></a>3.弹出选择芯片型号界面，选择芯片型号</h2><p>由于STC89C52是国产芯片，而软件是外国开发，所以并没有与之对应的芯片型号，我们选用英特尔的芯片型号作为替代，这两者都是51内核，所以并不影响用户使用</p><p><img src="http://www.cn.anshudeyin.cn/image-20210210111950062.png" alt="image-20210210111950062"></p><p><strong>注意：</strong>一定要选择具体型号，有些初学者选择完Intel之后就没再选择！！！</p><h2 id="4-添加启动代码"><a href="#4-添加启动代码" class="headerlink" title="4.添加启动代码"></a>4.添加启动代码</h2><p>选择完芯片型号之后会出现以下弹窗，这是51的配置启动代码，点击OK即可</p><p><img src="http://www.cn.anshudeyin.cn/image-20210210112327575.png" alt="image-20210210112327575"></p><h2 id="5-点击新建文件，创建-C文件"><a href="#5-点击新建文件，创建-C文件" class="headerlink" title="5.点击新建文件，创建.C文件"></a>5.点击新建文件，创建.C文件</h2><p><img src="http://www.cn.anshudeyin.cn/image-20210210112537868.png" alt="image-20210210112537868"></p><p>或者使用快捷栏</p><p><img src="http://www.cn.anshudeyin.cn/image-20210210112604197.png" alt="image-20210210112604197"></p><h2 id="6-保存"><a href="#6-保存" class="headerlink" title="6.保存"></a>6.保存</h2><p><img src="http://www.cn.anshudeyin.cn/image-20210210112643149.png" alt="image-20210210112643149"></p><p><img src="http://www.cn.anshudeyin.cn/image-20210210112728622.png" alt="image-20210210112728622"></p><p><strong>注意：</strong>保存时文件名一样不能使用中文，而且保存时要有后缀.c</p><h2 id="7-将文件添加至工程中"><a href="#7-将文件添加至工程中" class="headerlink" title="7.将文件添加至工程中"></a>7.将文件添加至工程中</h2><p>双击Source—&gt;点击main.c—-&gt;点击Add</p><p><img src="http://www.cn.anshudeyin.cn/image-20210210113216697.png" alt="image-20210210113216697"></p><h2 id="8-最终效果"><a href="#8-最终效果" class="headerlink" title="8.最终效果"></a>8.最终效果</h2><p><img src="http://www.cn.anshudeyin.cn/image-20210210113250344.png" alt="image-20210210113250344"></p><p>之后就可以进行代码的书写了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;KEIL4新建工程&quot;&gt;&lt;a href=&quot;#KEIL4新建工程&quot; class=&quot;headerlink&quot; title=&quot;KEIL4新建工程&quot;&gt;&lt;/a&gt;KEIL4新建工程&lt;/h1&gt;&lt;h2 id=&quot;1-打开KEIL4，选择Project-——-gt-new-Project</summary>
+      
+    
+    
+    
+    
+    <category term="51单片机" scheme="http://example.com/tags/51%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>KEIL报错记录</title>
