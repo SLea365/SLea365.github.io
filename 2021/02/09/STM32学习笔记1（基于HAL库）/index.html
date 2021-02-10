@@ -10,26 +10,26 @@
   <meta name="generator" content="hexo-theme-yilia-plus">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   
-  <meta name="description" content="1.使用STM32CubeMX新建工程1.双击STM32CubeMX，点击file——&gt;new project  2.在此处选择芯片型号，例如STM32F103C8  3.在此处选择芯片的具体型号，双击打开  4.选择要操作的IO口，选择Output模式  5.填写项目名称、选择保存路径  6.勾选此项  7.点击生成  新建完成">
+  <meta name="description" content="1.使用STM32CubeMX新建工程">
 <meta property="og:type" content="article">
 <meta property="og:title" content="STM32学习笔记1（基于HAL库）">
 <meta property="og:url" content="http://example.com/2021/02/09/STM32%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01%EF%BC%88%E5%9F%BA%E4%BA%8EHAL%E5%BA%93%EF%BC%89/index.html">
 <meta property="og:site_name" content="南叶的个人博客">
-<meta property="og:description" content="1.使用STM32CubeMX新建工程1.双击STM32CubeMX，点击file——&gt;new project  2.在此处选择芯片型号，例如STM32F103C8  3.在此处选择芯片的具体型号，双击打开  4.选择要操作的IO口，选择Output模式  5.填写项目名称、选择保存路径  6.勾选此项  7.点击生成  新建完成">
+<meta property="og:description" content="1.使用STM32CubeMX新建工程">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="http://example.com/2021/MD/Blog/image-20210209164401300.png">
-<meta property="og:image" content="http://example.com/2021/MD/Blog/image-20210209164702859.png">
-<meta property="og:image" content="http://example.com/2021/MD/Blog/image-20210209164816979.png">
-<meta property="og:image" content="http://example.com/2021/MD/Blog/image-20210210101615309.png">
-<meta property="og:image" content="http://example.com/2021/MD/Blog/image-20210210101756612.png">
-<meta property="og:image" content="http://example.com/2021/MD/Blog/image-20210210101823695.png">
-<meta property="og:image" content="http://example.com/2021/MD/Blog/image-20210210101852785.png">
+<meta property="og:image" content="http://www.cn.anshudeyin.cn/image-20210209164401300.png">
+<meta property="og:image" content="http://www.cn.anshudeyin.cn/image-20210209164702859.png">
+<meta property="og:image" content="http://www.cn.anshudeyin.cn/image-20210209164816979.png">
+<meta property="og:image" content="http://www.cn.anshudeyin.cn/image-20210210101615309.png">
+<meta property="og:image" content="http://www.cn.anshudeyin.cn/image-20210210101756612.png">
+<meta property="og:image" content="http://www.cn.anshudeyin.cn/image-20210210101823695.png">
+<meta property="og:image" content="http://www.cn.anshudeyin.cn/image-20210210101852785.png">
 <meta property="article:published_time" content="2021-02-09T08:33:46.000Z">
-<meta property="article:modified_time" content="2021-02-10T02:20:08.341Z">
+<meta property="article:modified_time" content="2021-02-10T02:25:59.218Z">
 <meta property="article:author" content="南叶SLea">
 <meta property="article:tag" content="STM32">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://example.com/2021/MD/Blog/image-20210209164401300.png">
+<meta name="twitter:image" content="http://www.cn.anshudeyin.cn/image-20210209164401300.png">
   
     <link rel="alternative" href="/atom.xml" title="南叶的个人博客" type="application/atom+xml">
   
@@ -302,20 +302,20 @@
   
   <div class="article-entry" itemprop="articleBody">
     
-    <h1 id="1-使用STM32CubeMX新建工程"><a href="#1-使用STM32CubeMX新建工程" class="headerlink" title="1.使用STM32CubeMX新建工程"></a>1.使用STM32CubeMX新建工程</h1><p>1.双击STM32CubeMX，点击file——&gt;new project</p>
-<p><img src="../../../MD/Blog/image-20210209164401300.png" alt="image-20210209164401300"></p>
+    <h1 id="1-使用STM32CubeMX新建工程"><a href="#1-使用STM32CubeMX新建工程" class="headerlink" title="1.使用STM32CubeMX新建工程"></a>1.使用STM32CubeMX新建工程<a id="more"></a></h1><p>1.双击STM32CubeMX，点击file——&gt;new project</p>
+<p><img src="http://www.cn.anshudeyin.cn/image-20210209164401300.png" alt="image-20210209164401300"></p>
 <p>2.在此处选择芯片型号，例如STM32F103C8</p>
-<p><img src="../../../MD/Blog/image-20210209164702859.png" alt="image-20210209164702859"></p>
+<p><img src="http://www.cn.anshudeyin.cn/image-20210209164702859.png" alt="image-20210209164702859"></p>
 <p>3.在此处选择芯片的具体型号，双击打开</p>
-<p><img src="../../../MD/Blog/image-20210209164816979.png" alt="image-20210209164816979"></p>
+<p><img src="http://www.cn.anshudeyin.cn/image-20210209164816979.png" alt="image-20210209164816979"></p>
 <p>4.选择要操作的IO口，选择Output模式</p>
-<p><img src="../../../MD/Blog/image-20210210101615309.png" alt="image-20210210101615309"></p>
+<p><img src="http://www.cn.anshudeyin.cn/image-20210210101615309.png" alt="image-20210210101615309"></p>
 <p>5.填写项目名称、选择保存路径</p>
-<p><img src="../../../MD/Blog/image-20210210101756612.png" alt="image-20210210101756612"></p>
+<p><img src="http://www.cn.anshudeyin.cn/image-20210210101756612.png" alt="image-20210210101756612"></p>
 <p>6.勾选此项</p>
-<p><img src="../../../MD/Blog/image-20210210101823695.png" alt="image-20210210101823695"></p>
+<p><img src="http://www.cn.anshudeyin.cn/image-20210210101823695.png" alt="image-20210210101823695"></p>
 <p>7.点击生成</p>
-<p><img src="../../../MD/Blog/image-20210210101852785.png" alt="image-20210210101852785"></p>
+<p><img src="http://www.cn.anshudeyin.cn/image-20210210101852785.png" alt="image-20210210101852785"></p>
 <p>新建完成</p>
 
     
@@ -644,15 +644,15 @@
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color1">51单片机</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">软件资源</a>
               </li>
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">技术杂谈</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color1">51单片机</a>
               </li>
              
               <li class="article-tag-list-item">
