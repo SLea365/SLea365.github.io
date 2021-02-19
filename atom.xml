@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-17T02:53:49.581Z</updated>
+  <updated>2021-02-19T02:54:10.569Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TTS语音模块资料</title>
+    <link href="http://example.com/2021/02/19/TTS%E8%AF%AD%E9%9F%B3%E6%A8%A1%E5%9D%97%E8%B5%84%E6%96%99/"/>
+    <id>http://example.com/2021/02/19/TTS%E8%AF%AD%E9%9F%B3%E6%A8%A1%E5%9D%97%E8%B5%84%E6%96%99/</id>
+    <published>2021-02-19T02:53:02.000Z</published>
+    <updated>2021-02-19T02:54:10.569Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://wws.lanzous.com/i8zRLlu0icb">点击下载</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://wws.lanzous.com/i8zRLlu0icb&quot;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="模块资料" scheme="http://example.com/tags/%E6%A8%A1%E5%9D%97%E8%B5%84%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>STC烧录软件的使用教程</title>
+    <link href="http://example.com/2021/02/19/STC%E7%83%A7%E5%BD%95%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <id>http://example.com/2021/02/19/STC%E7%83%A7%E5%BD%95%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</id>
+    <published>2021-02-19T02:16:30.000Z</published>
+    <updated>2021-02-19T02:46:21.431Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="STC烧录软件的使用教程"><a href="#STC烧录软件的使用教程" class="headerlink" title="STC烧录软件的使用教程"></a>STC烧录软件的使用教程</h1><h2 id="1-软件下载"><a href="#1-软件下载" class="headerlink" title="1.软件下载"></a>1.软件下载</h2><p>STC-ISP6.87版本：<a href="http://www.cn.anshudeyin.cn/stc-isp-15xx-v6.87.zip">点击下载</a> </p><p>普中下载器： <a href="https://wws.lanzous.com/idKM5f7xkni">点击下载</a></p><h2 id="STC-ISP使用教程"><a href="#STC-ISP使用教程" class="headerlink" title="STC-ISP使用教程"></a>STC-ISP使用教程</h2><p>1.解压压缩包，右击STC-ISP软件—-&gt;以管理员身份运行</p><p><img src="../../../MD/Blog/image-20210219102856874.png" alt="image-20210219102856874"></p><p>弹出以下界面：</p><p><img src="../../../MD/Blog/image-20210219102958162.png" alt="image-20210219102958162"></p><p>2.选择对应的芯片型号和串口号，（如果不显示串口号可能是没有安装CH340驱动，CH340驱动：<a href="http://www.cn.anshudeyin.cn/stc-isp-15xx-v6.87.zip">点击下载</a>）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;STC烧录软件的使用教程&quot;&gt;&lt;a href=&quot;#STC烧录软件的使用教程&quot; class=&quot;headerlink&quot; title=&quot;STC烧录软件的使用教程&quot;&gt;&lt;/a&gt;STC烧录软件的使用教程&lt;/h1&gt;&lt;h2 id=&quot;1-软件下载&quot;&gt;&lt;a href=&quot;#1-软件下载&quot;</summary>
+      
+    
+    
+    
+    
+    <category term="技术杂谈" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>阿里云服务器+WordPress搭建个人博客</title>
@@ -211,11 +256,11 @@
   </entry>
   
   <entry>
-    <title>51单片机笔记一（基础篇）</title>
+    <title>KEIL4软件安装以及破解</title>
     <link href="http://example.com/2021/02/06/51%E5%8D%95%E7%89%87%E6%9C%BA%E7%AC%94%E8%AE%B0%E4%B8%80%EF%BC%88%E5%9F%BA%E7%A1%80%E7%AF%87%EF%BC%89/"/>
     <id>http://example.com/2021/02/06/51%E5%8D%95%E7%89%87%E6%9C%BA%E7%AC%94%E8%AE%B0%E4%B8%80%EF%BC%88%E5%9F%BA%E7%A1%80%E7%AF%87%EF%BC%89/</id>
     <published>2021-02-06T07:25:20.000Z</published>
-    <updated>2021-02-15T01:36:28.867Z</updated>
+    <updated>2021-02-19T02:23:29.106Z</updated>
     
     <content type="html"><![CDATA[<h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><h2 id="软件安装"><a href="#软件安装" class="headerlink" title="软件安装  "></a>软件安装  <a id="more"></a></h2><h3 id="1-KEIL4的安装"><a href="#1-KEIL4的安装" class="headerlink" title="1.KEIL4的安装"></a>1.KEIL4的安装</h3><p>工欲善其事，必先利其器。KEIL4是相对来说比较容易入门51的一款IDE，下面就进行KEIL4的安装 。首先将安装包下载下来，<a href="http://www.cn.anshudeyin.cn/Keil_C51_9.02a.zip">下载地址</a> 进行解压，双击安装文件，此时会弹出安装的欢迎界面（如下图）</p><p><img src="http://www.cn.anshudeyin.cn/1.png" alt="欢迎界面"></p><p>点击“Next”按钮，弹出“License Agreement”对话框，如图 1-2 所示。这里显示的<br>是安装许可协议，把I agree 勾选上</p><p><img src="http://www.cn.anshudeyin.cn/image-20210206160413170.png"></p><p>点击“Next”按钮，弹出“Folder Selection”对话框，如图 1-3 所示。这里可以设置安装路径，默认安装路径在“C:\Keil”文件夹下。点击“Browse…”按钮，可以修改安装路径。</p><p><img src="http://www.cn.anshudeyin.cn/image-20210206160526470.png" alt="image-20210206160526470"></p><p>继续NEXT大家输入用户名、公司名称以及 E-mail 地址即可。</p><p><img src="http://www.cn.anshudeyin.cn/image-20210206160551373.png"></p><p>安装完成后，弹出来安装完成对话框，如图 1-6 所示，并且出现几个选项，大家刚开始把这几个选项的对号全部去掉就可以了<img src="http://www.cn.anshudeyin.cn/image-20210206161002772.png"></p><p>最后，点击“Finish”，Keil 编程软件开发环境就这么装好了。</p><h2 id="2-KEIL4的注册"><a href="#2-KEIL4的注册" class="headerlink" title="2.KEIL4的注册"></a>2.KEIL4的注册</h2><p>首先下载注册机的压缩包，<a href="http://www.cn.anshudeyin.cn/keygen_new%282032%29.zip">下载地址</a>  下载完成之后关闭所有的杀毒软件（360，腾讯管家等等）,先打开KEIL4，打开方法：右击——&gt;以管理员身份运行。找到File下面的License Management选项。如下图所示<img src="http://www.cn.anshudeyin.cn/image-20210206164121239.png" alt="image-20210206164121239"></p><p><img src="http://www.cn.anshudeyin.cn/image-20210206164331326.png" alt="image-20210206164331326"></p><p><strong>3</strong>右击打开注册机，将复制的CID粘贴进去，如下图：</p><p><img src="http://www.cn.anshudeyin.cn/image-20210206165040026.png" alt="image-20210206165040026"></p><p><img src="http://www.cn.anshudeyin.cn/image-20210206165229561.png" alt="image-20210206165229561"></p><p><img src="http://www.cn.anshudeyin.cn/image-20210206165251864.png"></p><h2 id="3-下载软件"><a href="#3-下载软件" class="headerlink" title="3.下载软件"></a>3.下载软件</h2><p>程序写好之后要经过编译链接才能使用，需要另外的软件下载到单片机中，推荐两款软件，选一种即可</p><p>普中： <a href="https://wws.lanzous.com/idKM5f7xkni">点击下载</a></p><p>STC-isp：<a href="http://www.cn.anshudeyin.cn/stc-isp-15xx-v6.87.zip">点击下载</a> </p><h2 id="4-常见错误"><a href="#4-常见错误" class="headerlink" title="4.常见错误"></a>4.常见错误</h2>]]></content>
     
@@ -382,25 +427,6 @@
     
     
     <category term="软件资源" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试用</title>
-    <link href="http://example.com/2021/02/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2021/02/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
-    <published>2021-02-05T09:47:01.000Z</published>
-    <updated>2021-02-18T10:10:41.443Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><p>图片测试</p><a id="more"></a><p><img src="http://www.cn.anshudeyin.cn/111.png" alt="表情"></p>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a&gt;二级标题&lt;/h2&gt;&lt;h3 id=&quot;三级标题&quot;&gt;&lt;a href=&quot;#三级标题&quot; class=&quot;headerlink&quot; title=&quot;三级标题&quot;&gt;&lt;/a&gt;三级标题&lt;/h3&gt;&lt;h4 id=&quot;四级标题&quot;&gt;&lt;a href=&quot;#四级标题&quot; class=&quot;headerlink&quot; title=&quot;四级标题&quot;&gt;&lt;/a&gt;四级标题&lt;/h4&gt;&lt;p&gt;图片测试&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="51单片机" scheme="http://example.com/tags/51%E5%8D%95%E7%89%87%E6%9C%BA/"/>
     
   </entry>
   
