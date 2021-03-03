@@ -46,14 +46,14 @@
     <link href="http://example.com/2021/02/28/PWM%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E4%BB%A5%E5%8F%8A51%E4%BD%BF%E7%94%A8IO%E5%8F%A3%E6%A8%A1%E6%8B%9F/"/>
     <id>http://example.com/2021/02/28/PWM%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E4%BB%A5%E5%8F%8A51%E4%BD%BF%E7%94%A8IO%E5%8F%A3%E6%A8%A1%E6%8B%9F/</id>
     <published>2021-02-28T03:54:02.000Z</published>
-    <updated>2021-02-28T06:33:10.920Z</updated>
+    <updated>2021-03-01T06:02:26.294Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="PWM原理详解"><a href="#PWM原理详解" class="headerlink" title="PWM原理详解"></a>PWM原理详解</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="PWM原理详解"><a href="#PWM原理详解" class="headerlink" title="PWM原理详解"></a>PWM原理详解</h1><p>PWM是 Pulse Width Modulation的缩写，它的中文名字是脉冲宽度调制。他的应用十分广泛，不同的场景中他的作用也不相同，其一般作用为调节电压，下面借助两个实例来进行讲解。第一个实例为调节电机转速，以TT马达为例，它的转速是由电压的大小决定的，在工作电压内，电压越大，马达的转速越快，基于这个理论，试想一下下图：</p><p><img src="../../../MD/Blog/image-20210301112010330.png" alt="image-20210301112010330"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;PWM原理详解&quot;&gt;&lt;a href=&quot;#PWM原理详解&quot; class=&quot;headerlink&quot; title=&quot;PWM原理详解&quot;&gt;&lt;/a&gt;PWM原理详解&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;PWM原理详解&quot;&gt;&lt;a href=&quot;#PWM原理详解&quot; class=&quot;headerlink&quot; title=&quot;PWM原理详解&quot;&gt;&lt;/a&gt;PWM原理详解&lt;/h1&gt;&lt;p&gt;PWM是 Pulse Width Modulation的缩写，它的中文名字是脉冲宽度调制。他的应用十</summary>
       
     
     
