@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-28T06:04:45.625Z</updated>
+  <updated>2021-03-08T09:24:27.612Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“正点原子mini开发板资料”</title>
+    <link href="http://example.com/2021/03/08/%E2%80%9C%E6%AD%A3%E7%82%B9%E5%8E%9F%E5%AD%90mini%E5%BC%80%E5%8F%91%E6%9D%BF%E8%B5%84%E6%96%99%E2%80%9D/"/>
+    <id>http://example.com/2021/03/08/%E2%80%9C%E6%AD%A3%E7%82%B9%E5%8E%9F%E5%AD%90mini%E5%BC%80%E5%8F%91%E6%9D%BF%E8%B5%84%E6%96%99%E2%80%9D/</id>
+    <published>2021-03-08T08:08:48.000Z</published>
+    <updated>2021-03-08T09:24:27.612Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="正点原子mini开发板资料"><a href="#正点原子mini开发板资料" class="headerlink" title="正点原子mini开发板资料 "></a>正点原子mini开发板资料 <a id="more"></a></h1><ul><li><a href="https://wws.lanzous.com/b01i4vv1c">https://wws.lanzous.com/b01i4vv1c</a><br>密码:5bu8</li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;正点原子mini开发板资料&quot;&gt;&lt;a href=&quot;#正点原子mini开发板资料&quot; class=&quot;headerlink&quot; title=&quot;正点原子mini开发板资料 &quot;&gt;&lt;/a&gt;正点原子mini开发板资料</summary>
+    
+    
+    
+    
+    <category term="软件资料" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99/"/>
+    
+  </entry>
   
   <entry>
     <title>个人收藏夹</title>
@@ -410,28 +429,6 @@
     
     
     <category term="STM32" scheme="http://example.com/tags/STM32/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>串口调试助手</title>
-    <link href="http://example.com/2021/02/06/%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/"/>
-    <id>http://example.com/2021/02/06/%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/</id>
-    <published>2021-02-06T03:07:01.000Z</published>
-    <updated>2021-02-06T03:08:24.937Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="http://www.cn.anshudeyin.cn/%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B%EF%BC%88%E4%B8%81%E4%B8%81%EF%BC%89.zip">点击下载</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;http://www.cn.anshudeyin.cn/%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B%EF%BC%88%E4%B8%81%E4%B8%81%EF%BC%89.zip&quot;&gt;点击下载</summary>
-      
-    
-    
-    
-    
-    <category term="软件资源" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
